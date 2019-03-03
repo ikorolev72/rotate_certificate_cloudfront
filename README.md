@@ -8,12 +8,12 @@ Script SSl certificate rotation for ASW Cloufront distribution
 
 ##  The Latest Version
 
-	version 1.0 20190303
+	version 1.0 2019.03.03
 
 
 ##  Whats new
 
-version 1.0 2018.11.13
+version 1.0 2019.03.03
   
   + Initial version
 
