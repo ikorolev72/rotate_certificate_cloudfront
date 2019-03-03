@@ -22,7 +22,7 @@ version 1.0 2018.11.13
 For Ubuntu ( or any Debian distributive):
 ```bash
 sudo apt-get install aws-cli git php php-xml php-xmlsimple
-git clone 
+git clone https://github.com/ikorolev72/rotate_certificate_cloudfront.git
 cd rotate_certificate_cloudfront
 wget http://docs.aws.amazon.com/aws-sdk-php/v3/download/aws.phar
 cp -pr ~/.aws ./
